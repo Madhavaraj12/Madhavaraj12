@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vijay Anand</h1>
+<h1 align="center">Hi 👋, I'm Madhavaraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackvijayy&label=Profile%20views&color=0e75b6&style=flat" alt="jackvijayy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhavaraj12&label=Profile%20views&color=0e75b6&style=flat" alt="jackvijayy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackvijayy" alt="jackvijayy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Madhavaraj12" alt="jackvijayy" /></a> </p>
 
 - 🔭 I’m currently working on **React js**
 
